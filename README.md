@@ -46,13 +46,27 @@ There are various places in 'Legal-Reasoning-Auto-Evaluator-Pipeline' and 'Legal
 ### Citation:
 Our work can be cited through:
 ```
-@misc{mishra2025investigatingshortcomingsllmsstepbystep,
-      title={Investigating the Shortcomings of LLMs in Step-by-Step Legal Reasoning}, 
-      author={Venkatesh Mishra and Bimsara Pathiraja and Mihir Parmar and Sat Chidananda and Jayanth Srinivasa and Gaowen Liu and Ali Payani and Chitta Baral},
-      year={2025},
-      eprint={2502.05675},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.05675}, 
+@inproceedings{mishra-etal-2025-investigating,
+    title = "Investigating the Shortcomings of {LLM}s in Step-by-Step Legal Reasoning",
+    author = "Mishra, Venkatesh  and
+      Pathiraja, Bimsara  and
+      Parmar, Mihir  and
+      Chidananda, Sat  and
+      Srinivasa, Jayanth  and
+      Liu, Gaowen  and
+      Payani, Ali  and
+      Baral, Chitta",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Findings of the Association for Computational Linguistics: NAACL 2025",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-naacl.435/",
+    doi = "10.18653/v1/2025.findings-naacl.435",
+    pages = "7810--7841",
+    ISBN = "979-8-89176-195-7",
 }
 ```
